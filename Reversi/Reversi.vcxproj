@@ -158,6 +158,7 @@
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\main.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\Player.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\StandardLogic.cpp" />
+    <ClCompile Include="bla.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\Board.h" />

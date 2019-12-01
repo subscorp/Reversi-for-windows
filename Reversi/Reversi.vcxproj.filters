@@ -36,6 +36,9 @@
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\LocalPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\LocalPlayer.h">
