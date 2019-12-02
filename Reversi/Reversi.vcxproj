@@ -158,7 +158,6 @@
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\main.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\Player.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\ex4\src\client\StandardLogic.cpp" />
-    <ClCompile Include="bla.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\Board.h" />
@@ -167,7 +166,6 @@
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\LocalPlayer.h" />
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\Logic.h" />
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\Player.h" />
-    <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\RemotePlayer.h" />
     <ClInclude Include="..\..\..\..\Downloads\ex4\src\client\StandardLogic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
